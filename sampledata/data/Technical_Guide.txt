@@ -1,0 +1,68 @@
+Technical Guide: Internal Systems
+Company: Acme Corp
+Version: 1.5 | Last Updated: 2024-03-10
+
+============================================================
+SECTION 1 — VPN ACCESS
+============================================================
+Page 3
+
+1.1 VPN Setup
+All remote employees must use the company VPN (GlobalProtect) to access internal
+systems. VPN credentials are provisioned by IT during onboarding.
+
+1.2 Supported Platforms
+- Windows 10 / 11
+- macOS 12 (Monterey) and above
+- Ubuntu 22.04 LTS
+
+1.3 Troubleshooting
+If the VPN fails to connect, clear the cache via Settings > Clear Cache and retry.
+Contact IT helpdesk at it-support@acmecorp.com for persistent issues.
+
+============================================================
+SECTION 2 — PASSWORD POLICY
+============================================================
+Page 6
+
+2.1 Requirements
+Passwords must be at least 12 characters long and include:
+- Uppercase and lowercase letters
+- At least one number
+- At least one special character (@, #, $, %, etc.)
+
+2.2 Rotation
+Passwords must be changed every 90 days. The last 10 passwords cannot be reused.
+
+2.3 Multi-Factor Authentication
+MFA is mandatory for all accounts. Approved MFA methods: Google Authenticator,
+Microsoft Authenticator, or hardware TOTP keys.
+
+============================================================
+SECTION 3 — DATA CLASSIFICATION
+============================================================
+Page 10
+
+3.1 Classification Levels
+- Public: Marketing materials, press releases.
+- Internal: General business documents.
+- Confidential: Financial data, employee records, client contracts.
+- Restricted: Trade secrets, source code, encryption keys.
+
+3.2 Handling Rules
+Confidential and Restricted data must be encrypted at rest (AES-256) and in
+transit (TLS 1.3). Access is granted on a need-to-know basis.
+
+============================================================
+SECTION 4 — INCIDENT RESPONSE
+============================================================
+Page 14
+
+4.1 Reporting a Security Incident
+All suspected security incidents must be reported immediately to security@acmecorp.com.
+Do not attempt to investigate or remediate the incident on your own.
+
+4.2 Incident Severity
+- P1 (Critical): Active breach, data exfiltration. Response time: 1 hour.
+- P2 (High): Suspected compromise. Response time: 4 hours.
+- P3 (Medium): Policy violation. Response time: 1 business day.
