@@ -1,0 +1,71 @@
+HR Policy Document
+Company: Acme Corp
+Version: 3.2 | Last Updated: 2024-01-15
+
+============================================================
+SECTION 1 — LEAVE POLICY
+============================================================
+Page 12
+
+1.1 Annual Paid Leave
+Employees are eligible for 24 paid leaves annually. Leave entitlement accrues at
+2 days per month starting from the date of joining. Unused leave may be carried
+forward up to a maximum of 12 days into the next calendar year.
+
+1.2 Sick Leave
+Employees are entitled to 10 sick days per year. Sick leave does not carry forward.
+A medical certificate is required for absences exceeding 3 consecutive days.
+
+1.3 Maternity / Paternity Leave
+- Maternity leave: 26 weeks fully paid for female employees.
+- Paternity leave: 5 working days for male employees, to be taken within 30 days
+  of the child's birth.
+
+1.4 Unpaid Leave
+Unpaid leave may be granted at management's discretion for a maximum of 30 days
+per year.
+
+============================================================
+SECTION 2 — WORK-FROM-HOME POLICY
+============================================================
+Page 15
+
+2.1 Eligibility
+All permanent employees who have completed their probation period (90 days) are
+eligible for up to 3 days of work-from-home per week.
+
+2.2 Approval
+WFH requests must be submitted through the HRMS portal at least 24 hours in advance.
+
+============================================================
+SECTION 3 — PERFORMANCE REVIEW POLICY
+============================================================
+Page 18
+
+3.1 Review Cycle
+Performance reviews are conducted twice a year: in June and December.
+
+3.2 Rating Scale
+Employees are rated on a 5-point scale:
+  5 – Exceptional
+  4 – Exceeds Expectations
+  3 – Meets Expectations
+  2 – Needs Improvement
+  1 – Unsatisfactory
+
+3.3 Salary Revision
+Salary revisions are linked to performance ratings and are effective from April 1
+each year.
+
+============================================================
+SECTION 4 — CODE OF CONDUCT
+============================================================
+Page 22
+
+4.1 General Conduct
+All employees are expected to maintain professional behaviour, respect colleagues,
+and adhere to company values of Integrity, Innovation, and Inclusion.
+
+4.2 Disciplinary Action
+Violations of the code of conduct may result in a verbal warning, written warning,
+suspension, or termination, depending on the severity.
